@@ -1,6 +1,7 @@
 # Online Offline Budget Trackers
 
 ## Description
+This application will allow you to enter in 
 
 ## Table of Content
 
