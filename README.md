@@ -1,7 +1,7 @@
 # Online Offline Budget Trackers
 
 ## Description
-This application will allow you to enter in 
+This application will allow you to enter in transactions and their amount.  You can either subtract or add funds.  When a fund is put in you will be able to see the fund on a graph displayed below. This application will also work even when you go offline.  You will still be able to access the page and enter in amount with the correct corresponding total and graph display.
 
 ## Table of Content
 
