@@ -23,7 +23,7 @@ This application will allow you to enter in
 
 ## Photos
 Running the application
-<img src="TBH.png">
+<img src="images/app.png">
 
 
 ## Technology
